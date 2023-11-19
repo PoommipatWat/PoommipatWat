@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Poommipat Wattanaprasit
 - 👀 I’m interested in Robotics Software Engineering and AI.
-- 🌱 I’m currently learning robotics engineering and artificial intelligent at chiang mai university.
+- 🌱 I’m currently learning Robotics Engineering and Artificial Intelligent at Chiang Mai University.
 - 📫 How to reach me : poommipat_wat@cmu.ac.th.
